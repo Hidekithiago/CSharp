@@ -1,0 +1,8 @@
+C:\Users\hidek\OneDrive\Área de Trabalho\modelo\obj\Debug\modelo.csproj.AssemblyReference.cache
+C:\Users\hidek\OneDrive\Área de Trabalho\modelo\obj\Debug\modelo.csproj.SuggestedBindingRedirects.cache
+C:\Users\hidek\OneDrive\Área de Trabalho\modelo\obj\Debug\modelo.csproj.CoreCompileInputs.cache
+C:\Users\hidek\OneDrive\Área de Trabalho\modelo\bin\Debug\modelo.exe.config
+C:\Users\hidek\OneDrive\Área de Trabalho\modelo\bin\Debug\modelo.exe
+C:\Users\hidek\OneDrive\Área de Trabalho\modelo\bin\Debug\modelo.pdb
+C:\Users\hidek\OneDrive\Área de Trabalho\modelo\obj\Debug\modelo.exe
+C:\Users\hidek\OneDrive\Área de Trabalho\modelo\obj\Debug\modelo.pdb
