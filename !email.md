@@ -1,4 +1,4 @@
-## <a href="https://github.com/Hidekithiago/Automacao/blob/master/README.md">Email</a> <br>
+## <a href="https://github.com/Hidekithiago/CSharp/blob/master/README.md">Email</a> <br>
 <details>
 <details><summary><b>Send Email</b></summary>
   

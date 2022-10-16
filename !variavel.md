@@ -1,4 +1,4 @@
-## <a href="https://github.com/Hidekithiago/Automacao/blob/master/README.md">Variavel</a> <br>
+## <a href="https://github.com/Hidekithiago/CSharp/blob/master/README.md">Variavel</a> <br>
 <details>
 <details><summary><b>Pegar uma parte da variavel(Substring)</b></summary>
   
