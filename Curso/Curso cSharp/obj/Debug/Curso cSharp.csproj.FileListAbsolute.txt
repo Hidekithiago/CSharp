@@ -1,0 +1,31 @@
+C:\Users\hidek\OneDrive\Área de Trabalho\GitHub\CSharp\Curso\Curso cSharp\bin\Debug\Curso cSharp.exe.config
+C:\Users\hidek\OneDrive\Área de Trabalho\GitHub\CSharp\Curso\Curso cSharp\bin\Debug\Curso cSharp.exe
+C:\Users\hidek\OneDrive\Área de Trabalho\GitHub\CSharp\Curso\Curso cSharp\bin\Debug\Curso cSharp.pdb
+C:\Users\hidek\OneDrive\Área de Trabalho\GitHub\CSharp\Curso\Curso cSharp\obj\Debug\Curso cSharp.csproj.AssemblyReference.cache
+C:\Users\hidek\OneDrive\Área de Trabalho\GitHub\CSharp\Curso\Curso cSharp\obj\Debug\Curso cSharp.csproj.SuggestedBindingRedirects.cache
+C:\Users\hidek\OneDrive\Área de Trabalho\GitHub\CSharp\Curso\Curso cSharp\obj\Debug\Curso cSharp.csproj.CoreCompileInputs.cache
+C:\Users\hidek\OneDrive\Área de Trabalho\GitHub\CSharp\Curso\Curso cSharp\obj\Debug\Curso cSharp.exe
+C:\Users\hidek\OneDrive\Área de Trabalho\GitHub\CSharp\Curso\Curso cSharp\obj\Debug\Curso cSharp.pdb
+C:\Users\hidek\OneDrive\Área de Trabalho\GitHub\CSharp\Curso\Curso cSharp\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\hidek\OneDrive\Área de Trabalho\GitHub\CSharp\Curso\Curso cSharp\bin\Debug\Google.Protobuf.dll
+C:\Users\hidek\OneDrive\Área de Trabalho\GitHub\CSharp\Curso\Curso cSharp\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\hidek\OneDrive\Área de Trabalho\GitHub\CSharp\Curso\Curso cSharp\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\hidek\OneDrive\Área de Trabalho\GitHub\CSharp\Curso\Curso cSharp\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\hidek\OneDrive\Área de Trabalho\GitHub\CSharp\Curso\Curso cSharp\bin\Debug\MySql.Data.dll
+C:\Users\hidek\OneDrive\Área de Trabalho\GitHub\CSharp\Curso\Curso cSharp\bin\Debug\System.Buffers.dll
+C:\Users\hidek\OneDrive\Área de Trabalho\GitHub\CSharp\Curso\Curso cSharp\bin\Debug\System.Memory.dll
+C:\Users\hidek\OneDrive\Área de Trabalho\GitHub\CSharp\Curso\Curso cSharp\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\hidek\OneDrive\Área de Trabalho\GitHub\CSharp\Curso\Curso cSharp\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\hidek\OneDrive\Área de Trabalho\GitHub\CSharp\Curso\Curso cSharp\bin\Debug\ZstdNet.dll
+C:\Users\hidek\OneDrive\Área de Trabalho\GitHub\CSharp\Curso\Curso cSharp\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\hidek\OneDrive\Área de Trabalho\GitHub\CSharp\Curso\Curso cSharp\bin\Debug\Google.Protobuf.pdb
+C:\Users\hidek\OneDrive\Área de Trabalho\GitHub\CSharp\Curso\Curso cSharp\bin\Debug\Google.Protobuf.xml
+C:\Users\hidek\OneDrive\Área de Trabalho\GitHub\CSharp\Curso\Curso cSharp\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\hidek\OneDrive\Área de Trabalho\GitHub\CSharp\Curso\Curso cSharp\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\hidek\OneDrive\Área de Trabalho\GitHub\CSharp\Curso\Curso cSharp\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\hidek\OneDrive\Área de Trabalho\GitHub\CSharp\Curso\Curso cSharp\bin\Debug\MySql.Data.xml
+C:\Users\hidek\OneDrive\Área de Trabalho\GitHub\CSharp\Curso\Curso cSharp\bin\Debug\System.Buffers.xml
+C:\Users\hidek\OneDrive\Área de Trabalho\GitHub\CSharp\Curso\Curso cSharp\bin\Debug\System.Memory.xml
+C:\Users\hidek\OneDrive\Área de Trabalho\GitHub\CSharp\Curso\Curso cSharp\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\hidek\OneDrive\Área de Trabalho\GitHub\CSharp\Curso\Curso cSharp\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\hidek\OneDrive\Área de Trabalho\GitHub\CSharp\Curso\Curso cSharp\obj\Debug\Curso cSharp.csproj.CopyComplete
