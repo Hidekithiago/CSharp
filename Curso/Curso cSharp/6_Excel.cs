@@ -42,12 +42,11 @@ namespace Curso_cSharp
             }
             workbook.SaveAs(@"C:\Users\hidek\OneDrive\Área de Trabalho\GitHub\CSharp\Curso\Cursoexample_workbook.xlsx");
         }
+        /*
         static void Main(string[] args)
         {
             createSheet(@"test");
-
-
-
-        }        
+        }
+        */
     }
 }

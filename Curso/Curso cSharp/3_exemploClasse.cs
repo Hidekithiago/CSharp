@@ -6,44 +6,55 @@ using System.Threading.Tasks;
 
 namespace Curso_cSharp
 {
-    public class Produto3
+    public class FamiliaPrincipal
     {        
         public int Codigo { get; set; }
-        public string Nome { get; set; }
-        public double Preco { get; set; }
-        private double Desconto { get;}
+        public string NomeFamilia { get; set; }
 
-        public Produto3(int codigo, string nome, double preco)
+        /*
+        public FamiliaPrincipal(int codigo, string nomeFamilia)
         {
             Codigo = codigo;
-            Nome = nome;
-            Preco = preco;
-            Desconto = 0.75;
+            NomeFamilia = nomeFamilia;
         }
+        */
 
-        public void AplicaDesconto()
-        {
-            Preco = Preco * Desconto;
+        public string MostraNomeFamilia()
+        {            
+            return $"O Nome da sua familia e {NomeFamilia}";
         }
     }
 
-    public class Assinatura3 : Produto3
+    public class Familia : FamiliaPrincipal
     {
-        public DateTime DataExpiracao { get; set; }
-        Produto3 P1 { get; set; }
+        //public Familia(int codigo, string nomeFamilia) : base(codigo, nomeFamilia){}
 
-        public Assinatura3(int codigo, string nome, double preco, DateTime dataExpiracao) : base(codigo, nome, preco){
-            DataExpiracao = dataExpiracao;
-        }       
-
-        public TimeSpan GetTempoRestante()
+        public string LocalizacaoFamilia { get; set; }
+        
+        public string MudaLocalizacaoFamilia(string cidade)
         {
-            return DataExpiracao - DateTime.Today;
+            LocalizacaoFamilia = cidade;
+            return $"A familia se mudou para a cidade {cidade}";
         }
+    }
 
-        public TimeSpan AdicionandoBonus()
+    public class Pessoa : Familia
+    {
+        //public Pessoa(int codigo, string nomeFamilia) : base(codigo, nomeFamilia){}
+
+        public string NomePessoa { get; set; }
+        public int Idade { get; set; }
+        public string LocalizacaoPessoa { get; set; }
+
+        public string VerificaMaioridade(int idade)
         {
-            return DataExpiracao.AddDays(3) - DateTime.Today;
+            if (idade > 18) return $"O/A {NomePessoa} e MAIOR de idade";
+            else return $"O/A {NomePessoa} e MENOR de idade";
+        }
+        public string MudaLocalizacaoPessoa(string cidade)
+        {
+            LocalizacaoPessoa = cidade;
+            return $"O/A {NomePessoa} se mudou para a cidade {cidade}";
         }
     }
 
@@ -51,13 +62,17 @@ namespace Curso_cSharp
     {
         /*
         static void Main(string[] args)
-        {            
-            Assinatura3 a1 = new Assinatura3(1, "GAMEPASS", 2.90, DateTime.Parse("2022-11-23 00:00:00"));
-            Console.WriteLine($"Codigo {a1.Codigo}\nNome {a1.Nome}\nPreco {a1.Preco}\nDia Expiracao {a1.DataExpiracao}");
-            a1.Nome = "PASSEGAME";
-            Console.WriteLine($"\n\nCodigo {a1.Codigo}\nNome {a1.Nome}\nPreco {a1.Preco}\nDia Expiracao {a1.DataExpiracao}");
-            a1.AplicaDesconto();
-            Console.WriteLine($"\n\nCodigo {a1.Codigo}\nNome {a1.Nome}\nPreco {a1.Preco}\nDia Expiracao {a1.DataExpiracao}");
+        {
+            Pessoa c1 = new Pessoa();
+            c1.Codigo = 1;
+            c1.NomeFamilia = "IKEHARA";
+            c1.LocalizacaoFamilia = "MAUA";
+            c1.LocalizacaoPessoa = "MAUA";
+            c1.NomePessoa = "THIAGO";
+            c1.Idade = 26;
+
+            c1.MudaLocalizacaoPessoa("SANTO ANDRE");
+            c1.MudaLocalizacaoFamilia("SANTO ANDRE");
         }
         */
     }

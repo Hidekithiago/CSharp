@@ -1,10 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Net;
-using System.Text;
-using System.Threading.Tasks;
-using System.Xml.Linq;
 
 namespace Curso_cSharp
 {
@@ -19,7 +13,7 @@ namespace Curso_cSharp
             Atributo1 = atributo2;
         }
 
-        public static void metodo1() { Console.WriteLine("Hello World"); }
-        public static string metodo2() { return "Hello World"; }
+        public static void Metodo1() { Console.WriteLine("Hello World"); }
+        public static string Metodo2() { return "Hello World"; }
     }
 }

@@ -13,7 +13,7 @@ public class _4_bancoDados{
         public int Id { get; set; }
         public string Nome { get; set; }
         public int Desconto { get; set; }
-        private string UserName { get; } //Exercicio 4
+        public string UserName { get; } //Exercicio 4
 
         public FormasPagamento(int id, string nome, int desconto, string userName)
         {
@@ -24,7 +24,7 @@ public class _4_bancoDados{
         }
 
 
-        public static void executaQuery(string query)
+        public static void ExecutaQuery(string query)
         {
             using (var conexao = new MySqlConnection(connectionString))
             {
@@ -35,7 +35,7 @@ public class _4_bancoDados{
             }
         }
 
-        public static void consultaQuery(string query)
+        public static void ConsultaQuery(string query)
         {
             string test = null;
             using (var conexao = new MySqlConnection(connectionString))
@@ -48,7 +48,7 @@ public class _4_bancoDados{
             Console.WriteLine(test);
         }
 
-        public static DataSet consultaQueryArmazena(string query)
+        public static DataSet ConsultaQueryArmazena(string query)
         {
             using (var conexao = new MySqlConnection(connectionString))
             {

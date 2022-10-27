@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 class NaoEstatica
 {
-    public int sum(int a, int b)
+    public int Sum(int a, int b)
     {
         return a + b;
     }
@@ -14,7 +14,7 @@ class NaoEstatica
 
 class Estatica
 {   
-    public static int sum(int a, int b)
+    public static int Sum(int a, int b)
     {
         return a + b;
     }

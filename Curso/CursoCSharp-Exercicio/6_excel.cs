@@ -12,7 +12,6 @@ class _6_excel{
         sheet["A4"].Value = "4"; sheet["B4"].Value = "Mesa"; sheet["C4"].Value = "100.99";
         sheet["A5"].Value = "5"; sheet["B5"].Value = "Cadeira"; sheet["C5"].Value = "50.50";
 
-
         workbook.SaveAs(diretorio);
     }
 }
