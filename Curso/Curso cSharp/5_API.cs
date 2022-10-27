@@ -14,24 +14,14 @@ using Org.BouncyCastle.Asn1.Crmf;
 
 namespace Curso_cSharp
 {
-    /*  
-         *  IP: 162.241.60.117
-         *  login: quaest71_treinamento
-         *  senha: treinamento123
-         *  Banco de Dados: quaest71_treinamento
-         */
+    //  quaestumtreinamento@gmail.com
+    //  treinamento@123
     internal class API
     {
         public static void ConsultaAPI(string txtCep){
             HttpWebRequest request = (HttpWebRequest)WebRequest.Create("https://viacep.com.br/ws/" + txtCep + "/json/");
             request.AllowAutoRedirect = false;
             HttpWebResponse ChecaServidor = (HttpWebResponse)request.GetResponse();
-
-            if (ChecaServidor.StatusCode != HttpStatusCode.OK)
-            {
-                Console.WriteLine("Servidor indisponível");
-                return; // Sai da rotina
-            }
 
             using (Stream webStream = ChecaServidor.GetResponseStream())
             {
@@ -44,9 +34,6 @@ namespace Curso_cSharp
                         response = response.Replace("{", "[{");
                         response = response.Replace("}", "}]");
                         String[] substrings = response.Split('\n');
-
-                        int cont = 0;
-
                         try
                         {
                             JsonDocument doc = JsonDocument.Parse(response);
@@ -61,7 +48,6 @@ namespace Curso_cSharp
                             string gia = u1.GetProperty("gia").ToString();
                             string ddd = u1.GetProperty("ddd").ToString();
                             string siafi = u1.GetProperty("siafi").ToString();
-
                         }
                         catch (Exception a)
                         {
@@ -73,11 +59,12 @@ namespace Curso_cSharp
             }
         }
 
-        
+        /*
+         * //https://deckofcardsapi.com/
         static void Main(string[] args)
         {
             ConsultaAPI("09310260");
         }
-        
+        */
     }
 }
