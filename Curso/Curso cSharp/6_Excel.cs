@@ -10,9 +10,8 @@ namespace Curso_cSharp
         {
             WorkBook workbook = WorkBook.Load(diretorio);
             WorkSheet sheet = workbook.WorkSheets.First();
-            //Select cells easily in Excel notation and return the calculated value
-            int cellValue = sheet["A2"].IntValue;
-            // Read from Ranges of cells elegantly.
+            //sheet = workbook.WorkSheets[0];            
+            int cellValue = sheet["A2"].IntValue;            
             foreach (var cell in sheet["A2:A10"])
             {
                 Console.WriteLine("Cell {0} has value '{1}'", cell.AddressString, cell.Text);
@@ -27,7 +26,7 @@ namespace Curso_cSharp
         public static void createSheet(string diretorio)
         {
             WorkBook workbook = WorkBook.Create(ExcelFileFormat.XLSX);
-            var sheet = workbook.CreateWorkSheet(diretorio);
+            var sheet = workbook.CreateWorkSheet("A");
             sheet["A1"].Value = "Example";
             //set value to multiple cells
             sheet["A2:A4"].Value = 5;
@@ -40,12 +39,12 @@ namespace Curso_cSharp
             {
                 Console.WriteLine("Basic test passed");
             }
-            workbook.SaveAs(@"C:\Users\hidek\OneDrive\Área de Trabalho\GitHub\CSharp\Curso\Cursoexample_workbook.xlsx");
+            workbook.SaveAs(diretorio);
         }
         /*
         static void Main(string[] args)
         {
-            createSheet(@"test");
+            createSheet(@"C:\Users\hidek\OneDrive\Área de Trabalho\GitHub\CSharp\Curso\Cursoexample_workbook.xlsx"");
         }
         */
     }

@@ -20,7 +20,8 @@ namespace Curso_cSharp
     {
         public static void ConsultaAPI(string txtCep){
             HttpWebRequest request = (HttpWebRequest)WebRequest.Create("https://viacep.com.br/ws/" + txtCep + "/json/");
-            request.AllowAutoRedirect = false;
+            request.AllowAutoRedirect = true;
+
             HttpWebResponse ChecaServidor = (HttpWebResponse)request.GetResponse();
 
             using (Stream webStream = ChecaServidor.GetResponseStream())
@@ -56,14 +57,24 @@ namespace Curso_cSharp
                         }
                     }
                 }
+                
             }
         }
+        public static void a()
+        {
+            // Create a new HttpWebRequest Object to the mentioned URL.
+            HttpWebRequest myHttpWebRequest = (HttpWebRequest)WebRequest.Create("https://httpstat.us/302");
+            myHttpWebRequest.MaximumAutomaticRedirections = 1;
+            myHttpWebRequest.AllowAutoRedirect = false;
+            HttpWebResponse myHttpWebResponse = (HttpWebResponse)myHttpWebRequest.GetResponse();
 
+        }
         /*
-         * //https://deckofcardsapi.com/
+        //https://deckofcardsapi.com/
         static void Main(string[] args)
         {
-            ConsultaAPI("09310260");
+            //a();
+            ConsultaAPI("04533-085");
         }
         */
     }

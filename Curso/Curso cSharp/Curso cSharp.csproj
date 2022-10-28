@@ -210,6 +210,8 @@
     <Compile Include="2_classeEstatica.cs" />
     <Compile Include="1_classeModelo.cs" />
     <Compile Include="7_RPA.cs" />
+    <Compile Include="exercicio3.cs" />
+    <Compile Include="exercicio4.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>

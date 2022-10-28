@@ -37,12 +37,12 @@ namespace Curso_cSharp
                 }
             }
         }
-
+        /*
         static void Main(string[] args)
         {
             string query = "SELECT * FROM `medicoCRM` where uf = 'SP' and crm like '1%'";
             var b = ConsultaQueryArmazena(query);
         }
-
+        */
     }
 }

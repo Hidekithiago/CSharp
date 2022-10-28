@@ -167,3 +167,4 @@ C:\Users\Hideki\Desktop\GitHub\CSharp\Curso\Curso cSharp\obj\Debug\Curso cSharp.
 C:\Users\Hideki\Desktop\GitHub\CSharp\Curso\Curso cSharp\obj\Debug\Curso cSharp.csproj.CopyComplete
 C:\Users\Hideki\Desktop\GitHub\CSharp\Curso\Curso cSharp\obj\Debug\Curso cSharp.exe
 C:\Users\Hideki\Desktop\GitHub\CSharp\Curso\Curso cSharp\obj\Debug\Curso cSharp.pdb
+C:\Users\hidek\OneDrive\Área de Trabalho\GitHub\CSharp\Curso\Curso cSharp\bin\Debug\WebDriver.dll
