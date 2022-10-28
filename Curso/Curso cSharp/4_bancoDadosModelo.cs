@@ -67,6 +67,7 @@ public class bancoDadosModelo
     }
     public class execucao4
     {
+        /*
         static void Main(string[] args)
         {
             /*  
@@ -84,7 +85,9 @@ public class bancoDadosModelo
             var b = ConsultaQueryArmazena(query);
 
             MostraLinhas(b);
-            */
-        }
+         }
+          */
+        
+    
     }
 }

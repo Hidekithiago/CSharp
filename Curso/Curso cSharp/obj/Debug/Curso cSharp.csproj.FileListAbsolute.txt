@@ -82,3 +82,88 @@ C:\Users\hidek\OneDrive\Área de Trabalho\GitHub\CSharp\Curso\Curso cSharp\bin\D
 C:\Users\hidek\OneDrive\Área de Trabalho\GitHub\CSharp\Curso\Curso cSharp\bin\Debug\IronXL.dll.config
 C:\Users\hidek\OneDrive\Área de Trabalho\GitHub\CSharp\Curso\Curso cSharp\bin\Debug\SixLabors.ImageSharp.xml
 C:\Users\hidek\OneDrive\Área de Trabalho\GitHub\CSharp\Curso\Curso cSharp\bin\Debug\System.Text.Encoding.CodePages.xml
+C:\Users\Hideki\Desktop\GitHub\CSharp\Curso\Curso cSharp\bin\Debug\Curso cSharp.exe.config
+C:\Users\Hideki\Desktop\GitHub\CSharp\Curso\Curso cSharp\bin\Debug\Curso cSharp.exe
+C:\Users\Hideki\Desktop\GitHub\CSharp\Curso\Curso cSharp\bin\Debug\Curso cSharp.pdb
+C:\Users\Hideki\Desktop\GitHub\CSharp\Curso\Curso cSharp\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Hideki\Desktop\GitHub\CSharp\Curso\Curso cSharp\bin\Debug\Google.Protobuf.dll
+C:\Users\Hideki\Desktop\GitHub\CSharp\Curso\Curso cSharp\bin\Debug\IronSoftware.Drawing.Common.dll
+C:\Users\Hideki\Desktop\GitHub\CSharp\Curso\Curso cSharp\bin\Debug\IronXL.dll
+C:\Users\Hideki\Desktop\GitHub\CSharp\Curso\Curso cSharp\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Hideki\Desktop\GitHub\CSharp\Curso\Curso cSharp\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Hideki\Desktop\GitHub\CSharp\Curso\Curso cSharp\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Hideki\Desktop\GitHub\CSharp\Curso\Curso cSharp\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Hideki\Desktop\GitHub\CSharp\Curso\Curso cSharp\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Hideki\Desktop\GitHub\CSharp\Curso\Curso cSharp\bin\Debug\Microsoft.Extensions.Configuration.dll
+C:\Users\Hideki\Desktop\GitHub\CSharp\Curso\Curso cSharp\bin\Debug\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\Hideki\Desktop\GitHub\CSharp\Curso\Curso cSharp\bin\Debug\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\Hideki\Desktop\GitHub\CSharp\Curso\Curso cSharp\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\Hideki\Desktop\GitHub\CSharp\Curso\Curso cSharp\bin\Debug\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\Hideki\Desktop\GitHub\CSharp\Curso\Curso cSharp\bin\Debug\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\Hideki\Desktop\GitHub\CSharp\Curso\Curso cSharp\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Hideki\Desktop\GitHub\CSharp\Curso\Curso cSharp\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\Hideki\Desktop\GitHub\CSharp\Curso\Curso cSharp\bin\Debug\MySql.Data.dll
+C:\Users\Hideki\Desktop\GitHub\CSharp\Curso\Curso cSharp\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Hideki\Desktop\GitHub\CSharp\Curso\Curso cSharp\bin\Debug\SixLabors.ImageSharp.dll
+C:\Users\Hideki\Desktop\GitHub\CSharp\Curso\Curso cSharp\bin\Debug\System.Buffers.dll
+C:\Users\Hideki\Desktop\GitHub\CSharp\Curso\Curso cSharp\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\Hideki\Desktop\GitHub\CSharp\Curso\Curso cSharp\bin\Debug\System.Memory.dll
+C:\Users\Hideki\Desktop\GitHub\CSharp\Curso\Curso cSharp\bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\Hideki\Desktop\GitHub\CSharp\Curso\Curso cSharp\bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\Hideki\Desktop\GitHub\CSharp\Curso\Curso cSharp\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Hideki\Desktop\GitHub\CSharp\Curso\Curso cSharp\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Hideki\Desktop\GitHub\CSharp\Curso\Curso cSharp\bin\Debug\System.Security.AccessControl.dll
+C:\Users\Hideki\Desktop\GitHub\CSharp\Curso\Curso cSharp\bin\Debug\System.Security.Permissions.dll
+C:\Users\Hideki\Desktop\GitHub\CSharp\Curso\Curso cSharp\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\Hideki\Desktop\GitHub\CSharp\Curso\Curso cSharp\bin\Debug\System.Text.Encoding.CodePages.dll
+C:\Users\Hideki\Desktop\GitHub\CSharp\Curso\Curso cSharp\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Hideki\Desktop\GitHub\CSharp\Curso\Curso cSharp\bin\Debug\System.Text.Json.dll
+C:\Users\Hideki\Desktop\GitHub\CSharp\Curso\Curso cSharp\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Hideki\Desktop\GitHub\CSharp\Curso\Curso cSharp\bin\Debug\System.ValueTuple.dll
+C:\Users\Hideki\Desktop\GitHub\CSharp\Curso\Curso cSharp\bin\Debug\WebDriver.dll
+C:\Users\Hideki\Desktop\GitHub\CSharp\Curso\Curso cSharp\bin\Debug\ZstdNet.dll
+C:\Users\Hideki\Desktop\GitHub\CSharp\Curso\Curso cSharp\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\Hideki\Desktop\GitHub\CSharp\Curso\Curso cSharp\bin\Debug\Google.Protobuf.pdb
+C:\Users\Hideki\Desktop\GitHub\CSharp\Curso\Curso cSharp\bin\Debug\Google.Protobuf.xml
+C:\Users\Hideki\Desktop\GitHub\CSharp\Curso\Curso cSharp\bin\Debug\IronSoftware.Drawing.Common.pdb
+C:\Users\Hideki\Desktop\GitHub\CSharp\Curso\Curso cSharp\bin\Debug\IronXL.pdb
+C:\Users\Hideki\Desktop\GitHub\CSharp\Curso\Curso cSharp\bin\Debug\IronXL.xml
+C:\Users\Hideki\Desktop\GitHub\CSharp\Curso\Curso cSharp\bin\Debug\IronXL.dll.config
+C:\Users\Hideki\Desktop\GitHub\CSharp\Curso\Curso cSharp\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\Hideki\Desktop\GitHub\CSharp\Curso\Curso cSharp\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\Hideki\Desktop\GitHub\CSharp\Curso\Curso cSharp\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\Hideki\Desktop\GitHub\CSharp\Curso\Curso cSharp\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Hideki\Desktop\GitHub\CSharp\Curso\Curso cSharp\bin\Debug\Microsoft.Extensions.Configuration.xml
+C:\Users\Hideki\Desktop\GitHub\CSharp\Curso\Curso cSharp\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\Hideki\Desktop\GitHub\CSharp\Curso\Curso cSharp\bin\Debug\Microsoft.Extensions.Configuration.FileExtensions.xml
+C:\Users\Hideki\Desktop\GitHub\CSharp\Curso\Curso cSharp\bin\Debug\Microsoft.Extensions.Configuration.Json.xml
+C:\Users\Hideki\Desktop\GitHub\CSharp\Curso\Curso cSharp\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.xml
+C:\Users\Hideki\Desktop\GitHub\CSharp\Curso\Curso cSharp\bin\Debug\Microsoft.Extensions.FileProviders.Physical.xml
+C:\Users\Hideki\Desktop\GitHub\CSharp\Curso\Curso cSharp\bin\Debug\Microsoft.Extensions.FileSystemGlobbing.xml
+C:\Users\Hideki\Desktop\GitHub\CSharp\Curso\Curso cSharp\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\Hideki\Desktop\GitHub\CSharp\Curso\Curso cSharp\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\Hideki\Desktop\GitHub\CSharp\Curso\Curso cSharp\bin\Debug\MySql.Data.xml
+C:\Users\Hideki\Desktop\GitHub\CSharp\Curso\Curso cSharp\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Hideki\Desktop\GitHub\CSharp\Curso\Curso cSharp\bin\Debug\SixLabors.ImageSharp.xml
+C:\Users\Hideki\Desktop\GitHub\CSharp\Curso\Curso cSharp\bin\Debug\System.Buffers.xml
+C:\Users\Hideki\Desktop\GitHub\CSharp\Curso\Curso cSharp\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\Hideki\Desktop\GitHub\CSharp\Curso\Curso cSharp\bin\Debug\System.Memory.xml
+C:\Users\Hideki\Desktop\GitHub\CSharp\Curso\Curso cSharp\bin\Debug\System.Net.Http.Extensions.xml
+C:\Users\Hideki\Desktop\GitHub\CSharp\Curso\Curso cSharp\bin\Debug\System.Net.Http.Primitives.xml
+C:\Users\Hideki\Desktop\GitHub\CSharp\Curso\Curso cSharp\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Hideki\Desktop\GitHub\CSharp\Curso\Curso cSharp\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Hideki\Desktop\GitHub\CSharp\Curso\Curso cSharp\bin\Debug\System.Security.AccessControl.xml
+C:\Users\Hideki\Desktop\GitHub\CSharp\Curso\Curso cSharp\bin\Debug\System.Security.Permissions.xml
+C:\Users\Hideki\Desktop\GitHub\CSharp\Curso\Curso cSharp\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\Hideki\Desktop\GitHub\CSharp\Curso\Curso cSharp\bin\Debug\System.Text.Encoding.CodePages.xml
+C:\Users\Hideki\Desktop\GitHub\CSharp\Curso\Curso cSharp\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Hideki\Desktop\GitHub\CSharp\Curso\Curso cSharp\bin\Debug\System.Text.Json.xml
+C:\Users\Hideki\Desktop\GitHub\CSharp\Curso\Curso cSharp\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Hideki\Desktop\GitHub\CSharp\Curso\Curso cSharp\bin\Debug\System.ValueTuple.xml
+C:\Users\Hideki\Desktop\GitHub\CSharp\Curso\Curso cSharp\obj\Debug\Curso cSharp.csproj.App.config
+C:\Users\Hideki\Desktop\GitHub\CSharp\Curso\Curso cSharp\obj\Debug\Curso cSharp.csproj.AssemblyReference.cache
+C:\Users\Hideki\Desktop\GitHub\CSharp\Curso\Curso cSharp\obj\Debug\Curso cSharp.csproj.SuggestedBindingRedirects.cache
+C:\Users\Hideki\Desktop\GitHub\CSharp\Curso\Curso cSharp\obj\Debug\Curso cSharp.csproj.CoreCompileInputs.cache
+C:\Users\Hideki\Desktop\GitHub\CSharp\Curso\Curso cSharp\obj\Debug\Curso cSharp.csproj.CopyComplete
+C:\Users\Hideki\Desktop\GitHub\CSharp\Curso\Curso cSharp\obj\Debug\Curso cSharp.exe
+C:\Users\Hideki\Desktop\GitHub\CSharp\Curso\Curso cSharp\obj\Debug\Curso cSharp.pdb

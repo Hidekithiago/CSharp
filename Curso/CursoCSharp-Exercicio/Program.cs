@@ -16,11 +16,15 @@ namespace CursoCSharp_Exercicio
         static void Main(string[] args)
         {   
             //Exercicio CLASSE
+            //Pedir para criar uma classe de calculadora com metodos e atributos
+
             Produto p1 = new Produto(1, "Produto1", 1.99);
             Produto p2 = new Produto(2, "Produto2", 1.99);
             Produto p3 = new Produto(3, "Produto3", 1.99);
             
+
             //EXERCICIO BANCO DE DADOS
+            //Mostrar os comandos DELETE, insert, TRUNCATE e LIMIT
             string[] formaPagamentoArray = {"Credito", "Debito", "Dinheiro", "Pix", "Boleto"};
             string formaPagamentoQuery = null;
             for(int i = 0; i < formaPagamentoArray.Length; i++) formaPagamentoQuery += $",('{formaPagamentoArray[i]}', 0, 'HIDEKI')";
