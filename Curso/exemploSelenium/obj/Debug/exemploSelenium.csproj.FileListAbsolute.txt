@@ -1,0 +1,10 @@
+C:\Users\hidek\OneDrive\Área de Trabalho\exemploSelenium\bin\Debug\exemploSelenium.exe.config
+C:\Users\hidek\OneDrive\Área de Trabalho\exemploSelenium\bin\Debug\exemploSelenium.exe
+C:\Users\hidek\OneDrive\Área de Trabalho\exemploSelenium\bin\Debug\exemploSelenium.pdb
+C:\Users\hidek\OneDrive\Área de Trabalho\exemploSelenium\bin\Debug\WebDriver.dll
+C:\Users\hidek\OneDrive\Área de Trabalho\exemploSelenium\obj\Debug\exemploSelenium.csproj.AssemblyReference.cache
+C:\Users\hidek\OneDrive\Área de Trabalho\exemploSelenium\obj\Debug\exemploSelenium.csproj.SuggestedBindingRedirects.cache
+C:\Users\hidek\OneDrive\Área de Trabalho\exemploSelenium\obj\Debug\exemploSelenium.csproj.CoreCompileInputs.cache
+C:\Users\hidek\OneDrive\Área de Trabalho\exemploSelenium\obj\Debug\exemploSelenium.csproj.CopyComplete
+C:\Users\hidek\OneDrive\Área de Trabalho\exemploSelenium\obj\Debug\exemploSelenium.exe
+C:\Users\hidek\OneDrive\Área de Trabalho\exemploSelenium\obj\Debug\exemploSelenium.pdb
