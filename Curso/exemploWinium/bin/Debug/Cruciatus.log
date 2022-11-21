@@ -1,0 +1,9 @@
+[11:50:56] [Info] Click on 'type: ControlType.Button, uid: num6Button, name: Seis' element at (1537, 556) ClickablePoint 
+[11:50:56] [Info] Click on 'type: ControlType.Button, uid: plusButton, name: Mais' element at (1600, 596) ClickablePoint 
+[11:50:57] [Info] Click on 'type: ControlType.Button, uid: num4Button, name: Quatro' element at (1412, 556) ClickablePoint 
+[11:50:57] [Info] Click on 'type: ControlType.Button, uid: equalButton, name: Igual a' element at (1600, 635) ClickablePoint 
+[11:52:45] [Debug] Element 'type: ControlType.Button, uid: num6Button, name: Seis' not have ClickablePoint 
+[11:52:46] [Info] Click on 'type: ControlType.Button, uid: num6Button, name: Seis' element at (1537, 556,5) BoundingRectangle center 
+[11:52:46] [Info] Click on 'type: ControlType.Button, uid: plusButton, name: Mais' element at (1600, 596) ClickablePoint 
+[11:52:47] [Info] Click on 'type: ControlType.Button, uid: num4Button, name: Quatro' element at (1412, 556) ClickablePoint 
+[11:52:47] [Info] Click on 'type: ControlType.Button, uid: equalButton, name: Igual a' element at (1600, 635) ClickablePoint 

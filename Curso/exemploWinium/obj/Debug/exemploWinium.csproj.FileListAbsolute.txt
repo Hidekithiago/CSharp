@@ -1,0 +1,15 @@
+C:\Users\hidek\OneDrive\Área de Trabalho\GitHub\CSharp\Curso\exemploWinium\bin\Debug\exemploWinium.exe.config
+C:\Users\hidek\OneDrive\Área de Trabalho\GitHub\CSharp\Curso\exemploWinium\bin\Debug\exemploWinium.exe
+C:\Users\hidek\OneDrive\Área de Trabalho\GitHub\CSharp\Curso\exemploWinium\bin\Debug\exemploWinium.pdb
+C:\Users\hidek\OneDrive\Área de Trabalho\GitHub\CSharp\Curso\exemploWinium\bin\Debug\NLog.dll
+C:\Users\hidek\OneDrive\Área de Trabalho\GitHub\CSharp\Curso\exemploWinium\bin\Debug\WindowsInput.dll
+C:\Users\hidek\OneDrive\Área de Trabalho\GitHub\CSharp\Curso\exemploWinium\bin\Debug\Winium.Cruciatus.dll
+C:\Users\hidek\OneDrive\Área de Trabalho\GitHub\CSharp\Curso\exemploWinium\bin\Debug\NLog.xml
+C:\Users\hidek\OneDrive\Área de Trabalho\GitHub\CSharp\Curso\exemploWinium\bin\Debug\WindowsInput.xml
+C:\Users\hidek\OneDrive\Área de Trabalho\GitHub\CSharp\Curso\exemploWinium\bin\Debug\Winium.Cruciatus.xml
+C:\Users\hidek\OneDrive\Área de Trabalho\GitHub\CSharp\Curso\exemploWinium\obj\Debug\exemploWinium.csproj.AssemblyReference.cache
+C:\Users\hidek\OneDrive\Área de Trabalho\GitHub\CSharp\Curso\exemploWinium\obj\Debug\exemploWinium.csproj.SuggestedBindingRedirects.cache
+C:\Users\hidek\OneDrive\Área de Trabalho\GitHub\CSharp\Curso\exemploWinium\obj\Debug\exemploWinium.csproj.CoreCompileInputs.cache
+C:\Users\hidek\OneDrive\Área de Trabalho\GitHub\CSharp\Curso\exemploWinium\obj\Debug\exemploWinium.csproj.CopyComplete
+C:\Users\hidek\OneDrive\Área de Trabalho\GitHub\CSharp\Curso\exemploWinium\obj\Debug\exemploWinium.exe
+C:\Users\hidek\OneDrive\Área de Trabalho\GitHub\CSharp\Curso\exemploWinium\obj\Debug\exemploWinium.pdb
