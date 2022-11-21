@@ -28,10 +28,11 @@ public class _7_RPA
         Process[] chromeInstances = Process.GetProcessesByName("chrome");
         foreach (Process p in chromeInstances) p.Kill();
     }
-    
+    /*
     static void Main(string[] args)
     {
         SeleniumGoogle();
     }
+    */
     
 }
